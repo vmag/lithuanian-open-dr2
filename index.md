@@ -14,18 +14,19 @@ We will drive the Group R5 cars.
 
 ### Points system
 
-1st: 25 points
-2nd: 18 points
-3rd: 15 points
-4th & 5th: 12 points
-6th to 10th: 10 points
-11th to 15th: 8 points
-16th to 20th: 6 points
-21th to 30th: 4 points
-31th to 40th: 2 points
-41th to 50th: 1 point
+* 1st: 25 points
+* 2nd: 18 points
+* 3rd: 15 points
+* 4th & 5th: 12 points
+* 6th to 10th: 10 points
+* 11th to 15th: 8 points
+* 16th to 20th: 6 points
+* 21th to 30th: 4 points
+* 31th to 40th: 2 points
+* 41th to 50th: 1 point
 
-#### Power Stage: Extra points can be earned in the last stage. First five get 5 to 1 points depending on position. Minimum 5 entries required.
+##### Power Stage
+Extra points can be earned in the last stage. First five get 5 to 1 points depending on position. Minimum 5 entries required.
 
 ## How to join
 
