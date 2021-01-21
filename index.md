@@ -39,5 +39,7 @@ Extra points can be earned in the last stage. First five get 5 to 1 points depen
 ## How to join
 
 Join our FB here: [https://www.facebook.com/groups/452688812570576]
+
 Join our Dirt Rally 2.0 club here: 
-Results and rules: 
+
+Results and rules: https://vmag.github.io/lithuanian-open-dr2/
