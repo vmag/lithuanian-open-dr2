@@ -1,5 +1,17 @@
 ## Group R5 Lithuanian Open championship
 
+# Results
+
+|  Driver 	|  MC 	|   SE	|  FI 	|  AG 	|   US	|   DE	|   SC	|   NZ	|   ES	|  AU 	|   	|   	|   	|  Total 	|
+|---	|---	|---	|---	|---	|---	|---	|---	|---	|---	|---	|---	|---	|---	|---	|
+|   virgism	|   0	|   	|   	|   	|   	|   	|   	|   	|   	|   	|   	|   	|   	|   0	|
+|  Alfonsas 	|  0 	|   	|   	|   	|   	|   	|   	|   	|   	|   	|   	|   	|   	|   0	|
+|   	|   	|   	|   	|   	|   	|   	|   	|   	|   	|   	|   	|   	|   	|   	|
+|   	|   	|   	|   	|   	|   	|   	|   	|   	|   	|   	|   	|   	|   	|   	|
+|   	|   	|   	|   	|   	|   	|   	|   	|   	|   	|   	|   	|   	|   	|   	|
+|   	|   	|   	|   	|   	|   	|   	|   	|   	|   	|   	|   	|   	|   	|   	|
+|   	|   	|   	|   	|   	|   	|   	|   	|   	|   	|   	|   	|   	|   	|   	|
+
 #### DLC:
 For this rally you will need several DLC packs.
 
@@ -45,14 +57,4 @@ Join our Dirt Rally 2.0 club here: https://dirtrally2.dirtgame.com/clubs/club/17
 Results and rules: https://vmag.github.io/lithuanian-open-dr2/
 
 
-# Results
 
-|  Driver 	|  MC 	|   SE	|  FI 	|  AG 	|   US	|   DE	|   SC	|   NZ	|   ES	|  AU 	|   	|   	|   	|  Total 	|
-|---	|---	|---	|---	|---	|---	|---	|---	|---	|---	|---	|---	|---	|---	|---	|
-|   virgism	|   	|   	|   	|   	|   	|   	|   	|   	|   	|   	|   	|   	|   	|   	|
-|  Alfonsas 	|   	|   	|   	|   	|   	|   	|   	|   	|   	|   	|   	|   	|   	|   	|
-|   	|   	|   	|   	|   	|   	|   	|   	|   	|   	|   	|   	|   	|   	|   	|
-|   	|   	|   	|   	|   	|   	|   	|   	|   	|   	|   	|   	|   	|   	|   	|
-|   	|   	|   	|   	|   	|   	|   	|   	|   	|   	|   	|   	|   	|   	|   	|
-|   	|   	|   	|   	|   	|   	|   	|   	|   	|   	|   	|   	|   	|   	|   	|
-|   	|   	|   	|   	|   	|   	|   	|   	|   	|   	|   	|   	|   	|   	|   	|
