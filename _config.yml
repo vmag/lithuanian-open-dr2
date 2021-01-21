@@ -1,5 +1,6 @@
 title: Lithuanian Open
 description: "Lithuanian Open Rally Championship"
 theme: jekyll-theme-hacker
+lsi: false
 github:
   is_project_page: false
