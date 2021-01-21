@@ -1,4 +1,4 @@
-## Group R5 Lithuanian Open championship
+## Group R5 Lithuanian Open Championship I
 
 # Results
 
