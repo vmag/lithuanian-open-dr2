@@ -1,7 +1,3 @@
----
-layout: home 
----
-
 ## Group R5 Lithuanian Open championship
 
 #### DLC:
