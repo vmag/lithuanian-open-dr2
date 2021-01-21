@@ -17,6 +17,8 @@
 
 This rally will run over 12 weeks, you have 7 days to do your entry.
 
+Rally start date: 2021.01.27
+
 Each entry averages about 30-40 minutes.
 
 45 minute service, 1-2 services.
