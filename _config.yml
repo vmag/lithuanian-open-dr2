@@ -1,10 +1,3 @@
+title: Lithuanian Open
+description: "Lithuanian Open Rally Championship"
 theme: jekyll-theme-hacker
-
-docs_list_title: Lithuanian Open Rally Championship
-docs:
-
-- title: Main page
-  url: index.md
-  
-- title: Results
-  url: results.d.md
