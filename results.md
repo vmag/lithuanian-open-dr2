@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Results
+theme: jekyll-theme-hacker
 ---
 
 ## Group R5 Lithuanian Open championship results
