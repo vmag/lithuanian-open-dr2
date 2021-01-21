@@ -1,10 +1,18 @@
 ## Group R5 Lithuanian Open championship
 
+#### DLC:
 For this rally you will need several DLC packs.
+
+#### Duration:
+
 This rally will run over 12 weeks, you have 7 days to do your entry.
+
 Each entry averages about 30-40 minutes.
+
 45 minute service, 1-2 services.
-Championship configuration: Setups allowed. Hardcore damage. Any camera. Assists on.
+
+#### Championship configuration
+Setups allowed. Hardcore damage. Any camera. Assists on.
 
 ### How to win
 The driver with the most points wins. 
