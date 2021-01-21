@@ -12,9 +12,7 @@
 |   	|   	| |  	|   	|   	|   	|   	|   	|   	|   	|   	|   	|   	|   	|   	|
 |   	|   	| |  	|   	|   	|   	|   	|   	|   	|   	|   	|   	|   	|   	|   	|
 
-#### DLC:
-For this rally you will need several DLC packs.
-
+# Rules
 #### Duration:
 
 This rally will run over 12 weeks, you have 7 days to do your entry.
@@ -31,6 +29,9 @@ The driver with the most points wins.
 
 ### Cars
 We will drive the Group R5 cars.  You must choose car for the first event and stick to that car for the whole championship.
+
+#### DLC:
+For this rally you will need several DLC packs.
 
 ### Points system
 
