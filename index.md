@@ -28,7 +28,7 @@ Setups allowed. Hardcore damage. Any camera. Assists on.
 The driver with the most points wins. 
 
 ### Cars
-We will drive the Group R5 cars.  You must choose car for the first event and stick to that car for the whole championship.
+We will drive the Group R5 cars.  You must choose a car for the first event and stick to that car for the whole championship.
 
 #### DLC:
 For this rally you will need several DLC packs.
