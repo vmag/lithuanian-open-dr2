@@ -2,7 +2,7 @@
 
 # Results
 
-|  Driver 	|  MC 	|   SE	|  FI 	|  AG 	|   US	|   DE	|   SC	|   NZ	|   ES	|  AU 	|   	|   	|   	|  Total 	|
+|  Driver 	|  MC 	|   SE	|  FI 	|  AG 	|   US	|   DE	|   SC	|   NZ	|   ES	|  AU 	|   PL	|   GR	|   WL	|  Total 	|
 |---	|---	|---	|---	|---	|---	|---	|---	|---	|---	|---	|---	|---	|---	|---	|
 |   virgism	|   0	|   	|   	|   	|   	|   	|   	|   	|   	|   	|   	|   	|   	|   0	|
 |  Alfonsas 	|  0 	|   	|   	|   	|   	|   	|   	|   	|   	|   	|   	|   	|   	|   0	|
