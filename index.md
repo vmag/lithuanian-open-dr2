@@ -22,7 +22,7 @@ Each entry averages about 30-40 minutes.
 45 minute service, 1-2 services.
 
 #### Championship configuration
-Setups allowed. Hardcore damage. Any camera. Assists on.
+Setups allowed. Hardcore damage. Any camera. Assists off.
 
 ### How to win
 The driver with the most points wins. 
