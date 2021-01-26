@@ -1,8 +1,8 @@
-## Group R5 Lithuanian Open Championship I
+## Group R5 Lithuania Open Championship I
 
 # Results
 
-|  Driver | Car	|  MC 	|   SE	|  FI 	|  AG 	|   US	|   DE	|   SC	|   NZ	|   ES	|  AU 	|   PL	|   GR	|   WL	|  Total 	|
+|  Driver | Car	|  MC 	|   SE	|  FI 	|  AG 	|   US	|   DE	|   WL	|   NZ	|   PL	|  GR 	|   SC	|   AU	|  	|  Total 	|
 |---	|---  |---	|---	|---	|---	|---	|---	|---	|---	|---	|---	|---	|---	|---	|---	|
 |   virgism	| Volkswagen Polo R5 |   0	|   	|   	|   	|   	|   	|   	|   	|   	|   	|   	|   	|   	|   0	|
 |  Alfonsas |	Ford Fiesta Mk II|  0 	|   	|   	|   	|   	|   	|   	|   	|   	|   	|   	|   	|   	|   0	|
