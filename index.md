@@ -44,7 +44,21 @@ The driver with the most points wins.
 We will drive the Group R5 cars.  You must choose a car for the first event and stick to that car for the whole championship.
 
 #### DLC:
-For this rally you will need several DLC packs.
+For this rally you will need several DLC packs:
+
+Catamarca Province, Argentina
+Monaro, Australia
+Jämsä, Finland (DLC)
+Baumholder, Germany (DLC)
+Argolis, Greece (DLC)
+Monte Carlo, Monaco (DLC)
+Hawkes Bay, New Zealand
+Łęczna County, Poland
+Perth and Kinross, Scotland (DLC)
+Ribadelles, Spain
+Värmland, Sweden (DLC)
+New England, USA
+Powys, Wales (DLC)
 
 --- 
 ### Points system
