@@ -46,8 +46,8 @@ We will drive the Group R5 cars.  You must choose a car for the first event and 
 #### DLC:
 For this rally you will need several DLC packs:
 
-Catamarca Province, Argentina
-Monaro, Australia
+* Catamarca Province, Argentina
+* Monaro, Australia
 Jämsä, Finland (DLC)
 Baumholder, Germany (DLC)
 Argolis, Greece (DLC)
