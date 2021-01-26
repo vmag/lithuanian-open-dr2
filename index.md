@@ -48,17 +48,17 @@ For this rally you will need several DLC packs:
 
 * Catamarca Province, Argentina
 * Monaro, Australia
-Jämsä, Finland (DLC)
-Baumholder, Germany (DLC)
-Argolis, Greece (DLC)
-Monte Carlo, Monaco (DLC)
-Hawkes Bay, New Zealand
-Łęczna County, Poland
-Perth and Kinross, Scotland (DLC)
-Ribadelles, Spain
-Värmland, Sweden (DLC)
-New England, USA
-Powys, Wales (DLC)
+* Jämsä, Finland (DLC)
+* Baumholder, Germany (DLC)
+* Argolis, Greece (DLC)
+* Monte Carlo, Monaco (DLC)
+* Hawkes Bay, New Zealand
+* Łęczna County, Poland
+* Perth and Kinross, Scotland (DLC)
+* Ribadelles, Spain
+* Värmland, Sweden (DLC)
+* New England, USA
+* Powys, Wales (DLC)
 
 --- 
 ### Points system
