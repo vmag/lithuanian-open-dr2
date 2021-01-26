@@ -44,7 +44,7 @@ The driver with the most points wins.
 We will drive the Group R5 cars.  You must choose a car for the first event and stick to that car for the whole championship.
 
 #### DLC:
-For this rally you will need several DLC packs:
+For this rally you will need several locations DLC packs:
 
 * Catamarca Province, Argentina
 * Monaro, Australia
