@@ -6,8 +6,8 @@
 |---	|---  |---	|---	|---	|---	|---	|---	|---	|---	|---	|---	|---	|---	|---	|---	|
 |  CA_VIRGINIJUS_M	| VOLKSWAGEN POLO GTI R5 |   25+5	|   	|   	|   	|   	|   	|   	|   	|   	|   	|   	|   	|   	|   30	|
 |  DANILICIUS |	FORD FIESTA R5 MKII|  0 	|   	|   	|   	|   	|   	|   	|   	|   	|   	|   	|   	|   	|   0	|
-|  ELKADRAGON 	|   	| |  	|   	|   	|   	|   	|   	|   	|   	|   	|   	|   	|   	|   	|
-|  ALFALTU	|   	| |  	|   	|   	|   	|   	|   	|   	|   	|   	|   	|   	|   	|   	|
+|  ELKADRAGON 	|  FORD FIESTA R5 MKII 	| |  	|   	|   	|   	|   	|   	|   	|   	|   	|   	|   	|   	|   	|
+|  ALFALTU	| ŠKODA FABIA R5  	| |  	|   	|   	|   	|   	|   	|   	|   	|   	|   	|   	|   	|   	|
 |  DARUDIZ	|   	| |  	|   	|   	|   	|   	|   	|   	|   	|   	|   	|   	|   	|   	|
 |  JOX88|   	| |  	|   	|   	|   	|   	|   	|   	|   	|   	|   	|   	|   	|   	|
 |  DARIUS85LTU	|   	| |  	|   	|   	|   	|   	|   	|   	|   	|   	|   	|   	|   	|   	|
