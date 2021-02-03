@@ -18,7 +18,7 @@
 | PABLITAS555       | ŠKODA FABIA R5           | 8    |    |    |    |    |    |    |    |    |    |    |    | 8     | 
 | ALIO              | FORD FIESTA R5 MKII      | 8    |    |    |    |    |    |    |    |    |    |    |    | 8     | 
 | S.GRABUN              | FORD FIESTA R5 MKII      | 8    |    |    |    |    |    |    |    |    |    |    |    | 8     | 
-| ARNASV            | ŠKODA FABIA R5           | 8    |    |    |    |    |    |    |    |    |    |    |    | 8     | 
+| A.VAIČIULIS            | ŠKODA FABIA R5           | 8    |    |    |    |    |    |    |    |    |    |    |    | 8     | 
 | RYTISK            | FORD FIESTA R5 MKII      | 8    |    |    |    |    |    |    |    |    |    |    |    | 8     | 
 | JONAITIS JONAS    | MITSUBISHI SPACE STAR R5 | 6    |    |    |    |    |    |    |    |    |    |    |    | 6     | 
 | ARNASM            | FORD FIESTA R5 MKII      | 6    |    |    |    |    |    |    |    |    |    |    |    | 6     | 
