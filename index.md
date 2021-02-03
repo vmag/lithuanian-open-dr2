@@ -4,13 +4,13 @@
 
 |  Driver | Car	|  MC 	|   SE	|  FI 	|  AG 	|   US	|   DE	|   WL	|   NZ	|   PL	|  GR 	|   SC	|   AU	|  	|  Total 	|
 |---	|---  |---	|---	|---	|---	|---	|---	|---	|---	|---	|---	|---	|---	|---	|---	|
-|  CA_VIRGINIJUS_M	| VOLKSWAGEN POLO GTI R5 |   25+5	|   	|   	|   	|   	|   	|   	|   	|   	|   	|   	|   	|   	|   30	|
-|  DANILICIUS |	FORD FIESTA R5 MKII|  0 	|   	|   	|   	|   	|   	|   	|   	|   	|   	|   	|   	|   	|   0	|
-|  ELKADRAGON 	|  FORD FIESTA R5 MKII 	| |  	|   	|   	|   	|   	|   	|   	|   	|   	|   	|   	|   	|   	|
-|  ALFALTU	| ŠKODA FABIA R5  	| |  	|   	|   	|   	|   	|   	|   	|   	|   	|   	|   	|   	|   	|
-|  DARUDIZ	|   	| |  	|   	|   	|   	|   	|   	|   	|   	|   	|   	|   	|   	|   	|
-|  JOX88|   	| |  	|   	|   	|   	|   	|   	|   	|   	|   	|   	|   	|   	|   	|
-|  DARIUS85LTU	|   	| |  	|   	|   	|   	|   	|   	|   	|   	|   	|   	|   	|   	|   	|
+|  CA_VIRGINIJUS_M	|VOLKSWAGEN POLO GTI R5 |   25+5	|   	|   	|   	|   	|   	|   	|   	|   	|   	|   	|   	|   	|   30	|
+|  DANILICIUS |FORD FIESTA R5 MKII|  0 	|   	|   	|   	|   	|   	|   	|   	|   	|   	|   	|   	|   	|   0	|
+|  ELKADRAGON 	|FORD FIESTA R5 MKII 	| |  	|   	|   	|   	|   	|   	|   	|   	|   	|   	|   	|   	|   	|
+|  ALFALTU	|ŠKODA FABIA R5  	| |  	|   	|   	|   	|   	|   	|   	|   	|   	|   	|   	|   	|   	|
+|  DARUDIZ	|FORD FIESTA R5 MKII 	| |  	|   	|   	|   	|   	|   	|   	|   	|   	|   	|   	|   	|   	|
+|  JOX88|   	|FORD FIESTA R5 MKII |  	|   	|   	|   	|   	|   	|   	|   	|   	|   	|   	|   	|   	|
+|  DARIUS85LTU	|FORD FIESTA R5 MKII  	| |  	|   	|   	|   	|   	|   	|   	|   	|   	|   	|   	|   	|   	|
 |  PAULIUSV111	|   	| |  	|   	|   	|   	|   	|   	|   	|   	|   	|   	|   	|   	|   	|
 |  E.GRASYS	|   	| |  	|   	|   	|   	|   	|   	|   	|   	|   	|   	|   	|   	|   	|
 |  PABLITAS555	|   	| |  	|   	|   	|   	|   	|   	|   	|   	|   	|   	|   	|   	|   	|
