@@ -5,7 +5,7 @@
 |                   |                          |      |    |    |    |    |    |    |    |    |    |    |    |       | 
 |-------------------|--------------------------|------|----|----|----|----|----|----|----|----|----|----|----|-------| 
 | Driver            | Car                      | MC   | SE | FI | AG | US | DE | WL | NZ | PL | GR | SC | AU | TOTAL | 
-| CA_VIRGINIJUS_M   | VOLKSWAGEN POLO GTI R5   | 25+5 |    |    |    |    |    |    |    |    |    |    |    | 30    | 
+| V.MAGELINSKAS   | VOLKSWAGEN POLO GTI R5   | 25+5 |    |    |    |    |    |    |    |    |    |    |    | 30    | 
 | DANILICIUS        | FORD FIESTA R5 MKII      | 18   |    |    |    |    |    |    |    |    |    |    |    | 18    | 
 | ELKADRAGON        | FORD FIESTA R5 MKII      | 12+4 |    |    |    |    |    |    |    |    |    |    |    | 16    | 
 | ALFALTU           | ŠKODA FABIA R5           | 15   |    |    |    |    |    |    |    |    |    |    |    | 15    | 
@@ -17,7 +17,7 @@
 | E.GRASYS          | FORD FIESTA R5 MKII      | 10   |    |    |    |    |    |    |    |    |    |    |    | 10    | 
 | PABLITAS555       | ŠKODA FABIA R5           | 8    |    |    |    |    |    |    |    |    |    |    |    | 8     | 
 | ALIO              | FORD FIESTA R5 MKII      | 8    |    |    |    |    |    |    |    |    |    |    |    | 8     | 
-| MOPE              | FORD FIESTA R5 MKII      | 8    |    |    |    |    |    |    |    |    |    |    |    | 8     | 
+| S.GRABUN              | FORD FIESTA R5 MKII      | 8    |    |    |    |    |    |    |    |    |    |    |    | 8     | 
 | ARNASV            | ŠKODA FABIA R5           | 8    |    |    |    |    |    |    |    |    |    |    |    | 8     | 
 | RYTISK            | FORD FIESTA R5 MKII      | 8    |    |    |    |    |    |    |    |    |    |    |    | 8     | 
 | JONAITIS JONAS    | MITSUBISHI SPACE STAR R5 | 6    |    |    |    |    |    |    |    |    |    |    |    | 6     | 
