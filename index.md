@@ -4,14 +4,34 @@
 
 |  Driver | Car	|  MC 	|   SE	|  FI 	|  AG 	|   US	|   DE	|   WL	|   NZ	|   PL	|  GR 	|   SC	|   AU	|  	|  Total 	|
 |---	|---  |---	|---	|---	|---	|---	|---	|---	|---	|---	|---	|---	|---	|---	|---	|
-|   virgism	| Volkswagen Polo R5 |   0	|   	|   	|   	|   	|   	|   	|   	|   	|   	|   	|   	|   	|   0	|
-|  Alfonsas |	Ford Fiesta Mk II|  0 	|   	|   	|   	|   	|   	|   	|   	|   	|   	|   	|   	|   	|   0	|
-|   	|   	| |  	|   	|   	|   	|   	|   	|   	|   	|   	|   	|   	|   	|   	|
-|   	|   	| |  	|   	|   	|   	|   	|   	|   	|   	|   	|   	|   	|   	|   	|
-|   	|   	| |  	|   	|   	|   	|   	|   	|   	|   	|   	|   	|   	|   	|   	|
-|   	|   	| |  	|   	|   	|   	|   	|   	|   	|   	|   	|   	|   	|   	|   	|
-|   	|   	| |  	|   	|   	|   	|   	|   	|   	|   	|   	|   	|   	|   	|   	|
-
+|  CA_VIRGINIJUS_M	| VOLKSWAGEN POLO GTI R5 |   25+5	|   	|   	|   	|   	|   	|   	|   	|   	|   	|   	|   	|   	|   30	|
+|  DANILICIUS |	FORD FIESTA R5 MKII|  0 	|   	|   	|   	|   	|   	|   	|   	|   	|   	|   	|   	|   	|   0	|
+|  ELKADRAGON 	|   	| |  	|   	|   	|   	|   	|   	|   	|   	|   	|   	|   	|   	|   	|
+|  ALFALTU	|   	| |  	|   	|   	|   	|   	|   	|   	|   	|   	|   	|   	|   	|   	|
+|  DARUDIZ	|   	| |  	|   	|   	|   	|   	|   	|   	|   	|   	|   	|   	|   	|   	|
+|  JOX88|   	| |  	|   	|   	|   	|   	|   	|   	|   	|   	|   	|   	|   	|   	|
+|  DARIUS85LTU	|   	| |  	|   	|   	|   	|   	|   	|   	|   	|   	|   	|   	|   	|   	|
+|  PAULIUSV111	|   	| |  	|   	|   	|   	|   	|   	|   	|   	|   	|   	|   	|   	|   	|
+|  E.GRASYS	|   	| |  	|   	|   	|   	|   	|   	|   	|   	|   	|   	|   	|   	|   	|
+|  PABLITAS555	|   	| |  	|   	|   	|   	|   	|   	|   	|   	|   	|   	|   	|   	|   	|
+|  ALIO ||	|   	| |  	|   	|   	|   	|   	|   	|   	|   	|   	|   	|   	|   	|   	|
+|  MOPE	|   	| |  	|   	|   	|   	|   	|   	|   	|   	|   	|   	|   	|   	|   	|
+|  ARNASV	|   	| |  	|   	|   	|   	|   	|   	|   	|   	|   	|   	|   	|   	|   	|
+|  RYTISK	|   	| |  	|   	|   	|   	|   	|   	|   	|   	|   	|   	|   	|   	|   	|
+|  JONAITIS JONAS	|   	| |  	|   	|   	|   	|   	|   	|   	|   	|   	|   	|   	|   	|   	|
+|  ARNASM	|   	| |  	|   	|   	|   	|   	|   	|   	|   	|   	|   	|   	|   	|   	|
+|  GEDAZZ__	|   	| |  	|   	|   	|   	|   	|   	|   	|   	|   	|   	|   	|   	|   	|
+|  KUOSA	|   	| |  	|   	|   	|   	|   	|   	|   	|   	|   	|   	|   	|   	|   	|
+|  DARIUS93242	|   	| |  	|   	|   	|   	|   	|   	|   	|   	|   	|   	|   	|   	|   	|
+|  TWITCH.TV/3SKIMAS	|   	| |  	|   	|   	|   	|   	|   	|   	|   	|   	|   	|   	|   	|   	|
+|  DOM RAVEN	|   	| |  	|   	|   	|   	|   	|   	|   	|   	|   	|   	|   	|   	|   	|
+|  MCKINIS	|   	| |  	|   	|   	|   	|   	|   	|   	|   	|   	|   	|   	|   	|   	|
+|  MARTYNASJACEVIC	|   	| |  	|   	|   	|   	|   	|   	|   	|   	|   	|   	|   	|   	|   	|
+|  DOMASJACK8	|   	| |  	|   	|   	|   	|   	|   	|   	|   	|   	|   	|   	|   	|   	|
+|  LITHUANIA_KLK	|   	| |  	|   	|   	|   	|   	|   	|   	|   	|   	|   	|   	|   	|   	|
+|  TADAS DOVIDAITIS	|   	| |  	|   	|   	|   	|   	|   	|   	|   	|   	|   	|   	|   	|   	|
+|  TADIS	|   	| |  	|   	|   	|   	|   	|   	|   	|   	|   	|   	|   	|   	|   	|
+|  DRIFTINGOO	|   	| |  	|   	|   	|   	|   	|   	|   	|   	|   	|   	|   	|   	|   	|
 
 ---
 # How to join
