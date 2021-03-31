@@ -4,7 +4,7 @@
 
 | P# | Driver            | Car                      | MC   | SE   | FI   | AG   | US   | DE   | WL   | NZ   | PL   | GR | SC | AU | TOTAL | 
 |----|-------------------|--------------------------|------|------|------|------|------|------|------|------|------|----|----|----|-------| 
-| 1  | ALFALTU           | VOLKSWAGEN POLO GTI R5          | 15   | 12+2 | 25+5 | 18+3 | DNF  | 25+1 | 15+2 | 25+5 | 25+5 |    |    |    | 193   | 
+| 1  | ALFALTU           | VOLKSWAGEN POLO GTI R5   | 15   | 12+2 | 25+5 | 18+3 | DNF  | 25+1 | 15+2 | 25+5 | 25+5 |    |    |    | 193   | 
 | 2  | D.RINKEVIČIUS     | FORD FIESTA R5 MKII      | 12+3 | 18+3 | 15+3 | 15+2 | 25+4 | 18+4 | 18+4 | 15+1 | 18+2 |    |    |    | 180   | 
 | 3  | DANILICIUS        | FORD FIESTA R5 MKII      | 18   | 25+5 | 12+2 | 25+5 | 15   | 10+5 | 25+5 | 12+4 | 10+1 |    |    |    | 179   | 
 | 4  | V.MAGELINSKAS     | VOLKSWAGEN POLO GTI R5   | 25+5 | 15+4 | 18+4 | 12+4 | 18+5 | 15+3 | 12+3 | 18+3 | DNF  |    |    |    | 164   | 
@@ -15,8 +15,8 @@
 | 9  | LINASS17          | VOLKSWAGEN POLO GTI R5   | 10+1 | 8    | 8    | 8    | 10   | 4    | DNF  | 6    | 8    |    |    |    | 63    | 
 | 10 | GEDAZZ__          | PEUGEOT 208 T16 R5       | 6    | 6    | 6    | DNF  | 8    | 8    | 8    | 6    | 10   |    |    |    | 58    | 
 | 11 | PABLITAS555       | ŠKODA FABIA R5           | 8    | 8    | 10   | DNF  | 10+1 | DNF  | 10   | 10   | DNF  |    |    |    | 57    | 
-| 12 | A.VAIČIULIS       | ŠKODA FABIA R5           | 8    | 4    | DNF  | 6    | 8    | 6    | 6    | 6    | 6    |    |    |    | 50    | 
-| 13 | ALIO              | FORD FIESTA R5 MKII      | 8    | DNF  | 8    | 8    | 4    | 8    | 4    | 12+2 | DNF  |    |    |    | 48    | 
+| 12 | ALIO              | FORD FIESTA R5 MKII      | 8    | DNF  | 8    | 8    | 4    | 8    | 4    | 12+2 | DNF  |    |    |    | 54    | 
+| 13 | A.VAIČIULIS       | ŠKODA FABIA R5           | 8    | 4    | DNF  | 6    | 8    | 6    | 6    | 6    | 6    |    |    |    | 50    | 
 | 14 | BET TAI KAI SERIA | MITSUBISHI SPACE STAR R5 | DNS  | DNS  | 6    | 6    | 8    | 4    | 10   | 10   | DNF  |    |    |    | 44    | 
 | 15 | DOMASJACK8        | PEUGEOT 208 T16 R5       | DNF  | DNF  | 10   | 10   | 6    | DNS  | 8    | 8    | DNF  |    |    |    | 42    | 
 | 16 | JONAITIS JONAS    | MITSUBISHI SPACE STAR R5 | 6    | 4    | 6    | 6    | 6    | DNF  | 6    | DNS  | 8    |    |    |    | 42    | 
