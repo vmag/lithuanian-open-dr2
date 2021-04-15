@@ -12,10 +12,10 @@
 | 6  | JOX88             | FORD FIESTA R5 MKII      | 10+2 | 4    | 10   | 10   | 12+3 | 12   | 6    | 8    | 12   | DNS  | DNS  |    | 89    | 
 | 7  | DARIUS85LTU       | FORD FIESTA R5 MKII      | 10   | 10   | 4    | DNF  | 12   | 10   | 4    | 10   | 12+4 | 8+1  | DNF  |    | 85    | 
 | 8  | PAULIUSV111       | VOLKSWAGEN POLO GTI R5   | 10   | 6    | 8    | 10   | 10   | 8+2  | DNF  | DNF  | 15+3 | 10   | DNS  |    | 82    | 
-| 9  | LINASS17          | VOLKSWAGEN POLO GTI R5   | 10+1 | 8    | 8    | 8    | 10   | 4    | DNF  | 6    | 8    | 6    | DNF  |    | 69    | 
-| 10 | DOMASJACK8        | PEUGEOT 208 T16 R5       | DNF  | DNF  | 10   | 10   | 6    | DNS  | 8    | 8    | DNF  | 10   | 12+3 |    | 67    | 
-| 11 | GEDAZZ__          | PEUGEOT 208 T16 R5       | 6    | 6    | 6    | DNF  | 8    | 8    | 8    | 6    | 10   | DNF  | 8    |    | 66    | 
-| 12 | ALIO              | FORD FIESTA R5 MKII      | 8    | DNF  | 8    | 8    | 4    | 8    | 4    | 12+2 | DNF  | 8    | DNS  |    | 62    | 
+| 9  | XHIBRIDAS         | FORD FIESTA R5 MKII      | 8    | DNF  | 8    | 8    | 4    | 8    | 4    | 12+2 | DNF  | 8    | 10+2 |    | 74    | 
+| 10 | LINASS17          | VOLKSWAGEN POLO GTI R5   | 10+1 | 8    | 8    | 8    | 10   | 4    | DNF  | 6    | 8    | 6    | DNF  |    | 69    | 
+| 11 | DOMASJACK8        | PEUGEOT 208 T16 R5       | DNF  | DNF  | 10   | 10   | 6    | DNS  | 8    | 8    | DNF  | 10   | 12+3 |    | 67    | 
+| 12 | GEDAZZ__          | PEUGEOT 208 T16 R5       | 6    | 6    | 6    | DNF  | 8    | 8    | 8    | 6    | 10   | DNF  | 8    |    | 66    | 
 | 13 | IKACERAUSKAS      | FORD FIESTA R5 MKII      | DNS  | DNS  | DNS  | DNS  | 8    | 8    | 8    | 8    | 10   | 8    | 10   |    | 60    | 
 | 14 | A.VAIČIULIS       | ŠKODA FABIA R5           | 8    | 4    | DNF  | 6    | 8    | 6    | 6    | 6    | 6    | DNF  | 8    |    | 58    | 
 | 15 | PABLITAS555       | ŠKODA FABIA R5           | 8    | 8    | 10   | DNF  | 10+1 | DNF  | 10   | 10   | DNF  | DNS  | DNF  |    | 57    | 
