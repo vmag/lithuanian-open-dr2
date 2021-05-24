@@ -1,75 +1,38 @@
-## Group R5 Lithuania Open Championship I
+## Group R4/N4 Lithuania Open Championship
 
 # Results
 
-| P# | Driver            | Car                      | MC   | SE   | FI   | AG   | US   | DE   | WL   | NZ   | PL   | GR   | SC   | AU   | TOTAL | 
-|----|-------------------|--------------------------|------|------|------|------|------|------|------|------|------|------|------|------|-------| 
-| 1  | DANILICIUS        | FORD FIESTA R5 MKII      | 18   | 25+5 | 12+2 | 25+5 | 15   | 10+5 | 25+5 | 12+4 | 10+1 | 25+5 | 18+5 | 18+5 | 255   | 
-| 2  | A.RAKAUSKAS       | VOLKSWAGEN POLO GTI R5   | 15   | 12+2 | 25+5 | 18+3 | DNF  | 25+1 | 15+2 | 25+5 | 25+5 | 12   | 25+4 | 15+2 | 251   | 
-| 3  | V.MAGELINSKAS     | VOLKSWAGEN POLO GTI R5   | 25+5 | 15+4 | 18+4 | 12+4 | 18+5 | 15+3 | 12+3 | 18+3 | DNF  | 18+4 | 15   | 25+4 | 230   | 
-| 4  | D.RINKEVIČIUS     | FORD FIESTA R5 MKII      | 12+3 | 18+3 | 15+3 | 15+2 | 25+4 | 18+4 | 18+4 | 15+1 | 18+2 | 10   | 12   | DNS  | 202   | 
-| 5  | S.GRABUN          | FORD FIESTA R5 MKII      | 8    | 10   | 10   | DNF  | 10   | 10   | 10   | 10   | 10   | 10   | 10+1 | 12+3 | 114   | 
-| 6  | JOX88             | FORD FIESTA R5 MKII      | 10+2 | 4    | 10   | 10   | 12+3 | 12   | 6    | 8    | 12   | DNS  | DNS  | DNS  | 89    | 
-| 7  | XHIBRIDAS         | FORD FIESTA R5 MKII      | 8    | DNF  | 8    | 8    | 4    | 8    | 6    | 12+2 | DNF  | 8    | 10+2 | 10+1 | 87    | 
-| 8  | DARIUS85LTU       | FORD FIESTA R5 MKII      | 10   | 10   | 4    | DNF  | 12   | 10   | 4    | 10   | 12+4 | 8+1  | DNF  | DNS  | 85    | 
-| 9  | PAULIUSV111       | VOLKSWAGEN POLO GTI R5   | 10   | 6    | 8    | 10   | 10   | 8+2  | DNF  | DNF  | 15+3 | 10   | DNS  | DNS  | 82    | 
-| 10 | DOMASJACK8        | PEUGEOT 208 T16 R5       | DNF  | DNF  | 10   | 10   | 6    | DNS  | 8    | 8    | DNF  | 10   | 12+3 | 12   | 79    | 
-| 11 | GEDAZZ__          | PEUGEOT 208 T16 R5       | 6    | 6    | 6    | DNF  | 8    | 8    | 8    | 6    | 10   | DNF  | 8    | 8    | 74    | 
-| 12 | IKACERAUSKAS      | FORD FIESTA R5 MKII      | DNS  | DNS  | DNS  | DNS  | 8    | 8    | 8    | 8    | 10   | 8    | 10   | 10   | 70    | 
-| 13 | LINASS17          | VOLKSWAGEN POLO GTI R5   | 10+1 | 8    | 8    | 8    | 10   | 4    | DNF  | 6    | 8    | 6    | DNF  | DNS  | 69    | 
-| 14 | A.VAIČIULIS       | ŠKODA FABIA R5           | 8    | 4    | DNF  | 6    | 8    | 6    | 6    | 6    | 6    | DNF  | 8    | 8    | 66    | 
-| 15 | JONAITIS JONAS    | MITSUBISHI SPACE STAR R5 | 6    | 4    | 6    | 6    | 6    | DNF  | 6    | DNS  | 8    | 6    | 8    | 8    | 64    | 
-| 16 | PABLITAS555       | ŠKODA FABIA R5           | 8    | 8    | 10   | DNF  | 10+1 | DNF  | 10   | 10   | DNF  | DNS  | DNF  | DNF  | 57    | 
-| 17 | BET TAI KAI SERIA | MITSUBISHI SPACE STAR R5 | DNS  | DNS  | 6    | 6    | 8    | 4    | 10   | 10   | DNF  | 10   | DNF  | DNF  | 54    | 
-| 18 | BETKAS85          | VOLKSWAGEN POLO GTI R5   | DNS  | DNS  | DNS  | DNS  | DNF  | DNF  | 8    | 8    | 8    | 8    | 10   | 10   | 52    | 
-| 19 | LENGVASBUDA       | VOLKSWAGEN POLO GTI R5   | DNS  | 8    | DNF  | 8    | 10   | DNF  | 6    | 8    | DNF  | DNS  | 8    | DNF  | 48    | 
-| 20 | ELKADRAGON        | FORD FIESTA R5 MKII      | 12+4 | DNS  | DNF  | 10   | DNF  | DNF  | DNS  | DNS  | DNS  | 15+2 | DNS  | DNS  | 43    | 
-| 21 | ARNASM            | FORD FIESTA R5 MKII      | 6    | 4    | 8    | 6    | DNF  | 6    | DNF  | DNF  | 6    | 6    | DNF  | DNS  | 42    | 
-| 22 | WILLIAMS6925      | PEUGEOT 208 T16 R5       | DNS  | DNS  | DNS  | DNS  | DNS  | 12   | DNF  | 10   | 10   | 8    | DNF  | DNS  | 40    | 
-| 23 | BUTOMIS           | ŠKODA FABIA R5           | DNS  | 6    | 10   | DNF  | DNS  | 10   | 10   | DNS  | DNS  | DNS  | DNS  | DNS  | 36    | 
-| 24 | MCKINIS           | FORD FIESTA R5 MKII      | DNF  | 4    | DNF  | DNF  | 6    | 6    | 6    | 6    | 6    | DNS  | DNS  | DNS  | 36    | 
-| 25 | DARIUS93242       | MITSUBISHI SPACE STAR R5 | 6    | 4    | 6    | 4    | 6    | DNF  | 4    | DNF  | DNF  | 6    | DNF  | DNF  | 36    | 
-| 26 | TADAS DOVIDAITIS  | MITSUBISHI SPACE STAR R5 | DNF  | 8    | DNF  | 4    | 8    | 6    | 8    | DNS  | DNS  | DNF  | DNF  | DNS  | 34    | 
-| 27 | DAMBRAUSKIS       | ŠKODA FABIA R5           | DNS  | DNS  | DNS  | DNS  | DNS  | DNS  | DNS  | DNS  | 8    | 6    | 10   | 10   | 34    | 
-| 28 | DR1NK3R           | ŠKODA FABIA R5           | DNS  | 12+1 | 4    | 12+1 | DNF  | DNS  | 2    | DNS  | DNS  | DNS  | DNS  | DNS  | 32    | 
-| 29 | AURIMAS999        | ŠKODA FABIA R5           | DNS  | DNS  | 12+1 | 8    | DNF  | 8    | DNS  | DNS  | DNS  | DNS  | DNS  | DNS  | 29    | 
-| 30 | TWITCH.TV/3SKIMAS | ŠKODA FABIA R5           | 4    | 10   | DNF  | DNF  | DNF  | DNS  | 12+1 | DNF  | DNF  | DNS  | DNS  | DNS  | 27    | 
-| 31 | ZED               | ŠKODA FABIA R5           | DNS  | 10   | 8    | 4    | DNS  | DNS  | DNS  | DNS  | DNS  | DNS  | DNS  | DNS  | 22    | 
-| 32 | MARTYNASJACEVIC   | PEUGEOT 208 T16 R5       | DNF  | DNF  | DNS  | 10   | DNF  | DNF  | 10   | DNS  | DNF  | DNS  | DNS  | DNS  | 20    | 
-| 33 | EDYM              | FORD FIESTA R5 MKII      | DNS  | DNS  | DNS  | DNS  | DNS  | DNS  | DNS  | DNS  | DNS  | 4    | 8    | 8    | 20    | 
-| 34 | JAP               | FORD FIESTA R5 MKII      | DNS  | DNS  | DNS  | DNS  | DNS  | DNS  | DNS  | DNS  | DNS  | 12+3 | DNS  | DNS  | 15    | 
-| 35 | RYTISK            | FORD FIESTA R5 MKII      | 8    | 6    | DNS  | DNS  | DNS  | DNS  | DNS  | DNS  | DNS  | DNS  | DNS  | DNS  | 14    | 
-| 36 | MARAJAKS          | FORD FIESTA R5           | DNS  | 4    | 6    | 4    | DNS  | DNS  | DNS  | DNS  | DNS  | DNF  | DNF  | DNS  | 14    | 
-| 37 | DRIFTINGOO        | MITSUBISHI SPACE STAR R5 | DNF  | 4    | DNF  | DNF  | DNF  | 4    | DNF  | 6    | DNF  | DNS  | DNS  | DNS  | 14    | 
-| 38 | PROPHET MONKEY    | ŠKODA FABIA R5           | DNS  | DNS  | DNS  | DNF  | 6    | DNS  | DNS  | DNF  | 8    | DNS  | DNS  | DNF  | 14    | 
-| 39 | TADIS             | FORD FIESTA R5           | DNF  | DNF  | DNF  | DNF  | 4+2  | 6    | DNF  | DNS  | DNF  | DNF  | DNS  | DNF  | 12    | 
-| 40 | XHIBRIDAS         | FORD FIESTA R5 MKII      | DNS  | DNS  | DNS  | DNS  | DNS  | DNS  | DNS  | DNS  | DNF  | DNS  | 10+2 | DNS  | 12    | 
-| 41 | DEVAINIS          | VOLKSWAGEN POLO GTI R5   | DNS  | DNS  | DNS  | DNS  | DNS  | DNS  | DNS  | DNS  | DNF  | 4    | DNF  | 8    | 12    | 
-| 42 | E.GRASYS          | FORD FIESTA R5 MKII      | 10   | DNS  | DNS  | DNS  | DNS  | DNS  | DNS  | DNS  | DNS  | DNS  | DNS  | DNS  | 10    | 
-| 43 | KUOSA             | FORD FIESTA R5 MKII      | 6    | 4    | DNS  | DNS  | DNS  | DNS  | DNS  | DNS  | DNS  | DNS  | DNS  | DNS  | 10    | 
-| 44 | MANTAS95_LT       | ŠKODA FABIA R5           | DNS  | 10   | DNF  | DNS  | DNS  | DNS  | DNS  | DNS  | DNS  | DNS  | DNS  | DNS  | 10    | 
-| 45 | EVILME            | PEUGEOT 208 T16 R5       | DNS  | DNS  | DNS  | DNS  | DNS  | 10   | DNF  | DNS  | DNS  | DNS  | DNS  | DNS  | 10    | 
-| 46 | R4M_SNUPADELIKAS  | FORD FIESTA R5 MKII      | DNS  | DNS  | DNS  | DNS  | DNS  | DNS  | DNS  | DNS  | DNF  | DNS  | DNS  | 10   | 10    | 
-| 47 | DOM RAVEN         | ŠKODA FABIA R5           | DNF  | 8    | DNS  | DNS  | DNF  | DNS  | DNS  | DNF  | DNS  | DNS  | DNF  | DNS  | 8     | 
-| 48 | PECHKA32          | ŠKODA FABIA R5           | DNS  | DNS  | DNS  | 8    | DNF  | DNS  | DNS  | DNS  | DNF  | DNS  | DNS  | DNF  | 8     | 
-| 49 | EGIS_EGIS         | FORD FIESTA R5 MKII      | DNS  | DNS  | DNS  | DNS  | DNS  | DNS  | 4    | 4    | DNF  | DNF  | DNF  | DNS  | 8     | 
-| 50 | KAROLUKAS4        | FORD FIESTA R5 MKII      | DNS  | 6    | DNF  | DNF  | DNF  | DNS  | DNF  | DNF  | DNF  | DNF  | DNF  | DNF  | 6     | 
-| 51 | HORACIJUS0        | FORD FIESTA R5 MKII      | DNS  | DNS  | DNF  | 6    | DNS  | DNS  | DNS  | DNS  | DNS  | DNS  | DNS  | DNS  | 6     | 
-| 52 | SLICK             | FORD FIESTA R5 MKII      | DNS  | DNS  | DNS  | DNS  | DNS  | DNS  | DNS  | DNS  | 6    | DNS  | DNS  | DNS  | 6     | 
-| 53 | KOVINE LIUDMILA   | CITROEN C3 R5            | DNS  | DNS  | DNS  | 4    | DNF  | DNS  | DNS  | DNF  | DNS  | DNS  | DNS  | DNS  | 4     | 
-| 54 | 7LICK             | FORD FIESTA R5 MKII      | DNS  | DNS  | DNS  | DNS  | DNS  | DNF  | 4    | DNF  | DNS  | DNS  | DNS  | DNS  | 4     | 
-| 55 | KELYJE3           | VOLKSWAGEN POLO GTI R5   | DNS  | DNS  | DNS  | DNS  | DNS  | DNS  | 4    | DNS  | DNS  | DNS  | DNS  | DNS  | 4     | 
-| 56 | VALDUX            | FORD FIESTA R5 MKII      | DNS  | DNS  | DNS  | DNS  | DNS  | DNS  | DNS  | DNS  | DNS  | 4    | DNS  | DNS  | 4     | 
-| 57 | LITHUANIA_KLK     | FORD FIESTA R5 MKII      | DNF  | DNS  | DNS  | DNS  | DNS  | DNF  | DNS  | DNS  | DNS  | DNS  | DNS  | DNS  | 0     | 
-| 58 | L3EIZER           | VOLKSWAGEN POLO GTI R5   | DNS  | DNS  | DNF  | DNS  | DNS  | DNS  | DNS  | DNS  | DNS  | DNS  | DNS  | DNS  | 0     | 
-| 59 | RALISSTAS         | FORD FIESTA R5 MKII      | DNS  | DNS  | DNF  | DNS  | DNF  | DNS  | DNS  | DNS  | DNS  | DNS  | DNF  | DNS  | 0     | 
-| 60 | DEIVISVAI         | FORD FIESTA R5 MKII      | DNS  | DNS  | DNS  | DNF  | DNS  | DNS  | DNS  | DNS  | DNS  | DNS  | DNS  | DNS  | 0     | 
-| 61 | DAVIDAS_SWAT      | VOLKSWAGEN POLO GTI R5   | DNS  | DNS  | DNS  | DNS  | DNF  | DNS  | DNS  | DNF  | DNS  | DNS  | DNS  | DNS  | 0     | 
-| 62 | JUOZASNO1         | PEUGEOT 208 T16 R5       | DNS  | DNS  | DNS  | DNS  | DNS  | DNF  | DNF  | DNS  | DNS  | DNS  | DNS  | DNS  | 0     | 
-| 63 | JEBUSIUKASJ       | VOLKSWAGEN POLO GTI R5   | DNS  | DNS  | DNS  | DNS  | DNS  | DNS  | DNF  | DNS  | DNS  | DNS  | DNF  | DNS  | 0     | 
-| 64 | P1_434            | FORD FIESTA R5           | DNS  | DNS  | DNS  | DNS  | DNS  | DNS  | DNF  | DNS  | DNS  | DNS  | DNS  | DNS  | 0     | 
-| 65 | ASTRON            | FORD FIESTA R5 MKII      | DNS  | DNS  | DNS  | DNS  | DNS  | DNS  | DNS  | DNS  | DNF  | DNS  | DNS  | DNS  | 0     | 
-| 66 | KESTASMI          | FORD FIESTA R5 MKII      | DNS  | DNS  | DNS  | DNS  | DNS  | DNS  | DNS  | DNS  | DNF  | DNS  | DNF  | DNS  | 0     | 
+| P# | Driver            | Car        | 1    | 2 | 3 | 4 | 5 | 6 | TOTAL | 
+|----|-------------------|------------|------|---|---|---|---|---|-------| 
+| 1  | DANILICIUS        | MITSUBISHI | 25   |   |   |   |   |   | 25    | 
+| 2  | A.RAKAUSKAS       | SUBARU     | 18+5 |   |   |   |   |   | 23    | 
+| 3  | V.MAGELINSKAS     | SUBARU     | 15+4 |   |   |   |   |   | 19    | 
+| 4  | DR1NK3R           | MITSUBISHI | 12+3 |   |   |   |   |   | 15    | 
+| 5  | EVILME            | MITSUBISHI | 12+1 |   |   |   |   |   | 13    | 
+| 6  | PAULIUSV111       | SUBARU     | 10+2 |   |   |   |   |   | 12    | 
+| 7  | IKACERAUSKAS      | MITSUBISHI | 10   |   |   |   |   |   | 10    | 
+| 8  | BETKAS85          | MITSUBISHI | 10   |   |   |   |   |   | 10    | 
+| 9  | R4M_SNUPADELIKAS  | SUBARU     | 10   |   |   |   |   |   | 10    | 
+| 10 | PECHKA32          | MITSUBISHI | 10   |   |   |   |   |   | 10    | 
+| 11 | S.GRABUN          | SUBARU     | 8    |   |   |   |   |   | 8     | 
+| 12 | DOMASJACK8        | MITSUBISHI | 8    |   |   |   |   |   | 8     | 
+| 13 | LINASS17          | MITSUBISHI | 8    |   |   |   |   |   | 8     | 
+| 14 | PABLITAS555       | MITSUBISHI | 8    |   |   |   |   |   | 8     | 
+| 15 | SNEK              | MITSUBISHI | 8    |   |   |   |   |   | 8     | 
+| 16 | A.VAIČIULIS       | SUBARU     | 6    |   |   |   |   |   | 6     | 
+| 17 | JONAITIS JONAS    | MITSUBISHI | 6    |   |   |   |   |   | 6     | 
+| 18 | BET TAI KAI SERIA | SUBARU     | 6    |   |   |   |   |   | 6     | 
+| 19 | LENGVASBUDA       | MITSUBISHI | 6    |   |   |   |   |   | 6     | 
+| 20 | REGIS232          | MITSUBISHI | 6    |   |   |   |   |   | 6     | 
+| 21 | XHIBRIDAS         | MITSUBISHI | 4    |   |   |   |   |   | 4     | 
+| 22 | DARIUS93242       | MITSUBISHI | 4    |   |   |   |   |   | 4     | 
+| 23 | JUSTUX30          | MITSUBISHI | 4    |   |   |   |   |   | 4     | 
+| 24 | DAMBRAUSKIS       | SUBARU     | DNF  |   |   |   |   |   | 1     | 
+| 25 | TWITCH.TV/3SKIMAS | MITSUBISHI | DNF  |   |   |   |   |   | 1     | 
+| 26 | DRIFTINGOO        | MITSUBISHI | DNF  |   |   |   |   |   | 1     | 
+| 27 | TADIS             | MITSUBISHI | DNF  |   |   |   |   |   | 1     | 
+| 28 | NOHUMOUR          | MITSUBISHI | DNF  |   |   |   |   |   | 1     | 
+
 
 
 
@@ -87,13 +50,13 @@ Results and rules: [https://vmag.github.io/lithuanian-open-dr2/](https://vmag.gi
 # Rules
 #### Duration:
 
-This rally will run over 12 weeks, you have 7 days to do your entry.
+This rally will run over 6 weeks, you have 7 days to do your entry.
 
-Rally start date: 2021.01.27
+Rally start date: 2021.05.14
 
 Each entry averages about 30-40 minutes.
 
-45 minute service, 1-2 services.
+15-45 minute service, 1-3 services.
 
 #### Championship configuration
 Setups allowed. Hardcore damage. Any camera. Assists off.
@@ -102,7 +65,7 @@ Setups allowed. Hardcore damage. Any camera. Assists off.
 The driver with the most points wins. 
 
 ### Cars
-We will drive the Group R5 cars.  You must choose a car for the first event and stick to that car for the whole championship.
+We will drive the Group R4/N4 cars.  You must choose a car for the first event and stick to that car for the whole championship.
 
 #### DLC:
 For this rally you will need several locations DLC packs:
@@ -134,6 +97,7 @@ For this rally you will need several locations DLC packs:
 * 21th to 30th: 4 points
 * 31th to 40th: 2 points
 * 41th to 50th: 1 point
+* DNF: 1 point
 
 ##### Power Stage
 Extra points can be earned in the last stage. First five get 5 to 1 points depending on position. Minimum 5 entries required.
