@@ -2,36 +2,40 @@
 
 # Results
 
-| P# | Driver            | Car        | 1    | 2 | 3 | 4 | 5 | 6 | TOTAL | 
-|----|-------------------|------------|------|---|---|---|---|---|-------| 
-| 1  | DANILICIUS        | MITSUBISHI | 25   |   |   |   |   |   | 25    | 
-| 2  | A.RAKAUSKAS       | SUBARU     | 18+5 |   |   |   |   |   | 23    | 
-| 3  | V.MAGELINSKAS     | SUBARU     | 15+4 |   |   |   |   |   | 19    | 
-| 4  | DR1NK3R           | MITSUBISHI | 12+3 |   |   |   |   |   | 15    | 
-| 5  | EVILME            | MITSUBISHI | 12+1 |   |   |   |   |   | 13    | 
-| 6  | PAULIUSV111       | SUBARU     | 10+2 |   |   |   |   |   | 12    | 
-| 7  | IKACERAUSKAS      | MITSUBISHI | 10   |   |   |   |   |   | 10    | 
-| 8  | BETKAS85          | MITSUBISHI | 10   |   |   |   |   |   | 10    | 
-| 9  | R4M_SNUPADELIKAS  | SUBARU     | 10   |   |   |   |   |   | 10    | 
-| 10 | PECHKA32          | MITSUBISHI | 10   |   |   |   |   |   | 10    | 
-| 11 | S.GRABUN          | SUBARU     | 8    |   |   |   |   |   | 8     | 
-| 12 | DOMASJACK8        | MITSUBISHI | 8    |   |   |   |   |   | 8     | 
-| 13 | LINASS17          | MITSUBISHI | 8    |   |   |   |   |   | 8     | 
-| 14 | PABLITAS555       | MITSUBISHI | 8    |   |   |   |   |   | 8     | 
-| 15 | SNEK              | MITSUBISHI | 8    |   |   |   |   |   | 8     | 
-| 16 | A.VAIČIULIS       | SUBARU     | 6    |   |   |   |   |   | 6     | 
-| 17 | JONAITIS JONAS    | MITSUBISHI | 6    |   |   |   |   |   | 6     | 
-| 18 | BET TAI KAI SERIA | SUBARU     | 6    |   |   |   |   |   | 6     | 
-| 19 | LENGVASBUDA       | MITSUBISHI | 6    |   |   |   |   |   | 6     | 
-| 20 | REGIS232          | MITSUBISHI | 6    |   |   |   |   |   | 6     | 
-| 21 | XHIBRIDAS         | MITSUBISHI | 4    |   |   |   |   |   | 4     | 
-| 22 | DARIUS93242       | MITSUBISHI | 4    |   |   |   |   |   | 4     | 
-| 23 | JUSTUX30          | MITSUBISHI | 4    |   |   |   |   |   | 4     | 
-| 24 | DAMBRAUSKIS       | SUBARU     | DNF  |   |   |   |   |   | 1     | 
-| 25 | TWITCH.TV/3SKIMAS | MITSUBISHI | DNF  |   |   |   |   |   | 1     | 
-| 26 | DRIFTINGOO        | MITSUBISHI | DNF  |   |   |   |   |   | 1     | 
-| 27 | TADIS             | MITSUBISHI | DNF  |   |   |   |   |   | 1     | 
-| 28 | NOHUMOUR          | MITSUBISHI | DNF  |   |   |   |   |   | 1     | 
+| P# | Driver            | Car        | 1    | 2    | 3 | 4 | 5 | 6 | TOTAL | 
+|----|-------------------|------------|------|------|---|---|---|---|-------| 
+| 1  | DANILICIUS        | MITSUBISHI | 25   | 25+5 |   |   |   |   | 55    | 
+| 2  | V.MAGELINSKAS     | SUBARU     | 15+4 | 18+4 |   |   |   |   | 41    | 
+| 3  | DR1NK3R           | MITSUBISHI | 12+3 | 15+1 |   |   |   |   | 31    | 
+| 4  | EVILME            | MITSUBISHI | 12+1 | 12+3 |   |   |   |   | 28    | 
+| 5  | A.RAKAUSKAS       | SUBARU     | 18+5 | DNF  |   |   |   |   | 24    | 
+| 6  | PAULIUSV111       | SUBARU     | 10+2 | 10   |   |   |   |   | 22    | 
+| 7  | R4M_SNUPADELIKAS  | SUBARU     | 10   | 10   |   |   |   |   | 20    | 
+| 8  | PECHKA32          | MITSUBISHI | 10   | 10   |   |   |   |   | 20    | 
+| 9  | S.GRABUN          | SUBARU     | 8    | 10   |   |   |   |   | 18    | 
+| 10 | DOMASJACK8        | MITSUBISHI | 8    | 8+2  |   |   |   |   | 18    | 
+| 11 | PABLITAS555       | MITSUBISHI | 8    | 10   |   |   |   |   | 18    | 
+| 12 | BETKAS85          | MITSUBISHI | 10   | 6    |   |   |   |   | 16    | 
+| 13 | LINASS17          | MITSUBISHI | 8    | 6    |   |   |   |   | 14    | 
+| 14 | BET TAI KAI SERIA | SUBARU     | 6    | 8    |   |   |   |   | 14    | 
+| 15 | LENGVASBUDA       | MITSUBISHI | 6    | 8    |   |   |   |   | 14    | 
+| 16 | A.VAIČIULIS       | SUBARU     | 6    | 6    |   |   |   |   | 12    | 
+| 17 | PONAITIS LAKOSCIS | SUBARU     | DNS  | 12   |   |   |   |   | 12    | 
+| 18 | IKACERAUSKAS      | MITSUBISHI | 10   | DNS  |   |   |   |   | 10    | 
+| 19 | XHIBRIDAS         | MITSUBISHI | 4    | 6    |   |   |   |   | 10    | 
+| 20 | DARIUS93242       | MITSUBISHI | 4    | 6    |   |   |   |   | 10    | 
+| 21 | SNEK              | MITSUBISHI | 8    | DNS  |   |   |   |   | 8     | 
+| 22 | GEDAZZ__          | SUBARU     | DNS  | 8    |   |   |   |   | 8     | 
+| 23 | AURIMAS999        | SUBARU     | DNS  | 8    |   |   |   |   | 8     | 
+| 24 | JONAITIS JONAS    | MITSUBISHI | 6    | DNS  |   |   |   |   | 6     | 
+| 25 | REGIS232          | MITSUBISHI | 6    | DNS  |   |   |   |   | 6     | 
+| 26 | JUSTUX30          | MITSUBISHI | 4    | DNS  |   |   |   |   | 4     | 
+| 27 | TWITCH.TV/3SKIMAS | MITSUBISHI | DNF  | DNF  |   |   |   |   | 2     | 
+| 28 | DRIFTINGOO        | MITSUBISHI | DNF  | DNF  |   |   |   |   | 2     | 
+| 29 | DAMBRAUSKIS       | SUBARU     | DNF  | DNS  |   |   |   |   | 1     | 
+| 30 | TADIS             | MITSUBISHI | DNF  | DNS  |   |   |   |   | 1     | 
+| 31 | NOHUMOUR          | MITSUBISHI | DNF  | DNS  |   |   |   |   | 1     | 
+
 
 
 
