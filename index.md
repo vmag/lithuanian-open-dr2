@@ -12,13 +12,13 @@
 | 6  | PAULIUSV111       | SUBARU     | 10+2 | 10   | 12+2 | 10   | 8    | 10   | 64    | 
 | 7  | R4M_SNUPADELIKAS  | SUBARU     | 10   | 10   | 12   | 12   | 10   | 8    | 62    | 
 | 8  | PABLITAS555       | MITSUBISHI | 8    | 10   | 10   | 10   | 10   | 10   | 58    | 
-| 9  | BET TAI KAI SERIA | SUBARU     | 6    | 8    | 8    | 8    | 10   | 8    | 48    | 
-| 10 | PONAITIS LAKOSCIS | SUBARU     | DNS  | 12   | 10   | 8    | 8    | 10   | 48    | 
-| 11 | S.GRABUN          | SUBARU     | 8    | 10   | 10   | 10   | 10   | 8    | 46    | 
+| 9  | S.GRABUN          | SUBARU     | 8    | 10   | 10   | 10   | 10   | 8    | 56    | 
+| 10 | BET TAI KAI SERIA | SUBARU     | 6    | 8    | 8    | 8    | 10   | 8    | 48    | 
+| 11 | PONAITIS LAKOSCIS | SUBARU     | DNS  | 12   | 10   | 8    | 8    | 10   | 48    | 
 | 12 | A.VAIČIULIS       | SUBARU     | 6    | 6    | 8    | 6    | 8    | DNS  | 34    | 
-| 13 | GEDAZZ__          | SUBARU     | DNS  | 8    | 8    | DNS  | 6    | 8    | 34    | 
-| 14 | LENGVASBUDA       | MITSUBISHI | 6    | 8    | DNS  | 8    | 10   | DNF  | 33    | 
-| 15 | LINASS17          | MITSUBISHI | 8    | 6    | 10   | DNS  | DNS  | 8    | 32    | 
+| 13 | LENGVASBUDA       | MITSUBISHI | 6    | 8    | DNS  | 8    | 10   | DNF  | 33    | 
+| 14 | LINASS17          | MITSUBISHI | 8    | 6    | 10   | DNS  | DNS  | 8    | 32    | 
+| 15 | GEDAZZ__          | SUBARU     | DNS  | 8    | 8    | DNS  | 6    | 8    | 30    | 
 | 16 | JONAITIS JONAS    | MITSUBISHI | 6    | DNS  | 8    | 8    | 8    | DNS  | 30    | 
 | 17 | DARIUS93242       | MITSUBISHI | 4    | 6    | 6    | 6    | 6    | DNS  | 28    | 
 | 18 | BETKAS85          | MITSUBISHI | 10   | 6    | DNS  | 10   | DNF  | DNS  | 27    | 
@@ -40,6 +40,7 @@
 | 34 | DAINIUS1108       | SUBARU     | DNS  | DNS  | DNF  | DNF  | DNS  | DNS  | 2     | 
 | 35 | MARTYNASJACEVIC   | SUBARU     | DNS  | DNS  | DNF  | DNS  | DNF  | DNS  | 2     | 
 | 36 | TADIS             | MITSUBISHI | DNF  | DNS  | DNS  | DNS  | DNS  | DNS  | 1     | 
+
 
 
 
