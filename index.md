@@ -11,35 +11,36 @@
 | 5  | EVILME            | MITSUBISHI | 12+1 | 12+3 | 10+1 | 12+1 | 12+1 | 15   | 80    | 
 | 6  | PAULIUSV111       | SUBARU     | 10+2 | 10   | 12+2 | 10   | 8    | 10   | 64    | 
 | 7  | R4M_SNUPADELIKAS  | SUBARU     | 10   | 10   | 12   | 12   | 10   | 8    | 62    | 
-| 9  | PABLITAS555       | MITSUBISHI | 8    | 10   | 10   | 10   | 10   | 10   | 58    | 
-| 10 | BET TAI KAI SERIA | SUBARU     | 6    | 8    | 8    | 8    | 10   | 8    | 48    | 
-| 11 | PONAITIS LAKOSCIS | SUBARU     | DNS  | 12   | 10   | 8    | 8    | 10   | 48    | 
-| 8  | S.GRABUN          | SUBARU     | 8    | 10   | 10   | 10   | 10   | 8    | 46    | 
+| 8  | PABLITAS555       | MITSUBISHI | 8    | 10   | 10   | 10   | 10   | 10   | 58    | 
+| 9  | BET TAI KAI SERIA | SUBARU     | 6    | 8    | 8    | 8    | 10   | 8    | 48    | 
+| 10 | PONAITIS LAKOSCIS | SUBARU     | DNS  | 12   | 10   | 8    | 8    | 10   | 48    | 
+| 11 | S.GRABUN          | SUBARU     | 8    | 10   | 10   | 10   | 10   | 8    | 46    | 
 | 12 | A.VAIČIULIS       | SUBARU     | 6    | 6    | 8    | 6    | 8    | DNS  | 34    | 
-| 20 | GEDAZZ__          | SUBARU     | DNS  | 8    | 8    | DNS  | 6    | 8    | 34    | 
-| 17 | LENGVASBUDA       | MITSUBISHI | 6    | 8    | DNS  | 8    | 10   | DNF  | 33    | 
+| 13 | GEDAZZ__          | SUBARU     | DNS  | 8    | 8    | DNS  | 6    | 8    | 34    | 
+| 14 | LENGVASBUDA       | MITSUBISHI | 6    | 8    | DNS  | 8    | 10   | DNF  | 33    | 
 | 15 | LINASS17          | MITSUBISHI | 8    | 6    | 10   | DNS  | DNS  | 8    | 32    | 
-| 18 | JONAITIS JONAS    | MITSUBISHI | 6    | DNS  | 8    | 8    | 8    | DNS  | 30    | 
-| 16 | DARIUS93242       | MITSUBISHI | 4    | 6    | 6    | 6    | 6    | DNS  | 28    | 
-| 13 | BETKAS85          | MITSUBISHI | 10   | 6    | DNS  | 10   | DNF  | DNS  | 27    | 
-| 22 | SNEK              | MITSUBISHI | 8    | DNS  | DNF  | 8    | 8    | DNF  | 25    | 
-| 14 | A.RAKAUSKAS       | SUBARU     | 18+5 | DNF  | DNS  | DNS  | DNS  | DNS  | 24    | 
-| 19 | DOMASJACK8        | MITSUBISHI | 8    | 8+2  | DNF  | DNF  | DNF  | DNS  | 21    | 
-| 21 | AURIMAS999        | SUBARU     | DNS  | 8    | 8    | DNS  | DNS  | DNS  | 16    | 
+| 16 | JONAITIS JONAS    | MITSUBISHI | 6    | DNS  | 8    | 8    | 8    | DNS  | 30    | 
+| 17 | DARIUS93242       | MITSUBISHI | 4    | 6    | 6    | 6    | 6    | DNS  | 28    | 
+| 18 | BETKAS85          | MITSUBISHI | 10   | 6    | DNS  | 10   | DNF  | DNS  | 27    | 
+| 19 | SNEK              | MITSUBISHI | 8    | DNS  | DNF  | 8    | 8    | DNF  | 25    | 
+| 20 | A.RAKAUSKAS       | SUBARU     | 18+5 | DNF  | DNS  | DNS  | DNS  | DNS  | 24    | 
+| 21 | DOMASJACK8        | MITSUBISHI | 8    | 8+2  | DNF  | DNF  | DNF  | DNS  | 21    | 
+| 22 | AURIMAS999        | SUBARU     | DNS  | 8    | 8    | DNS  | DNS  | DNS  | 16    | 
 | 23 | PROPHET MONKEY    |            | DNS  | DNS  | DNS  | 10+3 | DNS  | DNS  | 13    | 
 | 24 | IKACERAUSKAS      | MITSUBISHI | 10   | DNS  | DNS  | DNS  | DNS  | DNS  | 10    | 
 | 25 | XHIBRIDAS         | MITSUBISHI | 4    | 6    | DNS  | DNS  | DNS  | DNS  | 10    | 
-| 28 | DRIFTINGOO        | MITSUBISHI | DNF  | DNF  | DNF  | DNF  | 6    | DNS  | 10    | 
-|    | XHIBRIDAS         |            | DNS  | DNS  | DNS  | DNS  | DNS  | 10   | 10    | 
-| 26 | REGIS232          | MITSUBISHI | 6    | DNS  | DNS  | DNS  | DNS  | DNS  | 6     | 
-| 30 | TWITCH.TV/3SKIMAS | MITSUBISHI | DNF  | DNF  | DNS  | DNS  | DNS  | 4    | 6     | 
-| 27 | JUSTUX30          | MITSUBISHI | 4    | DNS  | DNS  | DNS  | DNS  | DNS  | 4     | 
-| 29 | DAMBRAUSKIS       | SUBARU     | DNF  | DNS  | DNF  | DNF  | DNS  | DNS  | 3     | 
-| 31 | NOHUMOUR          | MITSUBISHI | DNF  | DNS  | DNF  | DNS  | DNS  | DNF  | 3     | 
-| 35 | WILLIAMS6925      | MITSUBISHI | DNS  | DNF  | DNS  | DNF  | DNF  | DNF  | 3     | 
-| 32 | DAINIUS1108       | SUBARU     | DNS  | DNS  | DNF  | DNF  | DNS  | DNS  | 2     | 
-| 34 | MARTYNASJACEVIC   | SUBARU     | DNS  | DNS  | DNF  | DNS  | DNF  | DNS  | 2     | 
-| 33 | TADIS             | MITSUBISHI | DNF  | DNS  | DNS  | DNS  | DNS  | DNS  | 1     | 
+| 26 | DRIFTINGOO        | MITSUBISHI | DNF  | DNF  | DNF  | DNF  | 6    | DNS  | 10    | 
+| 27 | XHIBRIDAS         |            | DNS  | DNS  | DNS  | DNS  | DNS  | 10   | 10    | 
+| 28 | REGIS232          | MITSUBISHI | 6    | DNS  | DNS  | DNS  | DNS  | DNS  | 6     | 
+| 29 | TWITCH.TV/3SKIMAS | MITSUBISHI | DNF  | DNF  | DNS  | DNS  | DNS  | 4    | 6     | 
+| 30 | JUSTUX30          | MITSUBISHI | 4    | DNS  | DNS  | DNS  | DNS  | DNS  | 4     | 
+| 31 | DAMBRAUSKIS       | SUBARU     | DNF  | DNS  | DNF  | DNF  | DNS  | DNS  | 3     | 
+| 32 | NOHUMOUR          | MITSUBISHI | DNF  | DNS  | DNF  | DNS  | DNS  | DNF  | 3     | 
+| 33 | WILLIAMS6925      | MITSUBISHI | DNS  | DNF  | DNS  | DNF  | DNF  | DNF  | 3     | 
+| 34 | DAINIUS1108       | SUBARU     | DNS  | DNS  | DNF  | DNF  | DNS  | DNS  | 2     | 
+| 35 | MARTYNASJACEVIC   | SUBARU     | DNS  | DNS  | DNF  | DNS  | DNF  | DNS  | 2     | 
+| 36 | TADIS             | MITSUBISHI | DNF  | DNS  | DNS  | DNS  | DNS  | DNS  | 1     | 
+
 
 
 
