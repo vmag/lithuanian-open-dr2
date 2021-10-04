@@ -1,46 +1,39 @@
-## Group R4/N4 Lithuania Open Championship
+## Lithuania Open Championship 2021 FALL SEASON
 
 # Results
 
-| P# | Driver            | Car        | 1    | 2    | 3    | 4    | 5    | 6    | TOTAL | 
-|----|-------------------|------------|------|------|------|------|------|------|-------| 
-| 1  | V.MAGELINSKAS     | SUBARU     | 15+4 | 18+4 | 18+4 | 25+4 | 15+4 | 12+2 | 125   | 
-| 2  | DR1NK3R           | MITSUBISHI | 12+3 | 15+1 | 25+5 | 18+5 | 18+3 | 18+1 | 124   | 
-| 3  | DANILICIUS        | MITSUBISHI | 25   | 25+5 | DNF  | DNF  | 25+5 | 25+5 | 117   | 
-| 4  | PECHKA32          | MITSUBISHI | 10   | 10   | 15+3 | 15+2 | 12+2 | 10+3 | 82    | 
-| 5  | EVILME            | MITSUBISHI | 12+1 | 12+3 | 10+1 | 12+1 | 12+1 | 15   | 80    | 
-| 6  | PAULIUSV111       | SUBARU     | 10+2 | 10   | 12+2 | 10   | 8    | 10   | 64    | 
-| 7  | R4M_SNUPADELIKAS  | SUBARU     | 10   | 10   | 12   | 12   | 10   | 8    | 62    | 
-| 8  | PABLITAS555       | MITSUBISHI | 8    | 10   | 10   | 10   | 10   | 10   | 58    | 
-| 9  | S.GRABUN          | SUBARU     | 8    | 10   | 10   | 10   | 10   | 8    | 56    | 
-| 10 | BET TAI KAI SERIA | SUBARU     | 6    | 8    | 8    | 8    | 10   | 8    | 48    | 
-| 11 | PONAITIS LAKOSCIS | SUBARU     | DNS  | 12   | 10   | 8    | 8    | 10   | 48    | 
-| 12 | A.VAIČIULIS       | SUBARU     | 6    | 6    | 8    | 6    | 8    | DNS  | 34    | 
-| 13 | LENGVASBUDA       | MITSUBISHI | 6    | 8    | DNS  | 8    | 10   | DNF  | 33    | 
-| 14 | LINASS17          | MITSUBISHI | 8    | 6    | 10   | DNS  | DNS  | 8    | 32    | 
-| 15 | GEDAZZ__          | SUBARU     | DNS  | 8    | 8    | DNS  | 6    | 8    | 30    | 
-| 16 | JONAITIS JONAS    | MITSUBISHI | 6    | DNS  | 8    | 8    | 8    | DNS  | 30    | 
-| 17 | DARIUS93242       | MITSUBISHI | 4    | 6    | 6    | 6    | 6    | DNS  | 28    | 
-| 18 | BETKAS85          | MITSUBISHI | 10   | 6    | DNS  | 10   | DNF  | DNS  | 27    | 
-| 19 | SNEK              | MITSUBISHI | 8    | DNS  | DNF  | 8    | 8    | DNF  | 25    | 
-| 20 | A.RAKAUSKAS       | SUBARU     | 18+5 | DNF  | DNS  | DNS  | DNS  | DNS  | 24    | 
-| 21 | DOMASJACK8        | MITSUBISHI | 8    | 8+2  | DNF  | DNF  | DNF  | DNS  | 21    | 
-| 22 | AURIMAS999        | SUBARU     | DNS  | 8    | 8    | DNS  | DNS  | DNS  | 16    | 
-| 23 | PROPHET MONKEY    |            | DNS  | DNS  | DNS  | 10+3 | DNS  | DNS  | 13    | 
-| 24 | IKACERAUSKAS      | MITSUBISHI | 10   | DNS  | DNS  | DNS  | DNS  | DNS  | 10    | 
-| 25 | XHIBRIDAS         | MITSUBISHI | 4    | 6    | DNS  | DNS  | DNS  | DNS  | 10    | 
-| 26 | DRIFTINGOO        | MITSUBISHI | DNF  | DNF  | DNF  | DNF  | 6    | DNS  | 10    | 
-| 27 | XHIBRIDAS         |            | DNS  | DNS  | DNS  | DNS  | DNS  | 10   | 10    | 
-| 28 | REGIS232          | MITSUBISHI | 6    | DNS  | DNS  | DNS  | DNS  | DNS  | 6     | 
-| 29 | TWITCH.TV/3SKIMAS | MITSUBISHI | DNF  | DNF  | DNS  | DNS  | DNS  | 4    | 6     | 
-| 30 | JUSTUX30          | MITSUBISHI | 4    | DNS  | DNS  | DNS  | DNS  | DNS  | 4     | 
-| 31 | DAMBRAUSKIS       | SUBARU     | DNF  | DNS  | DNF  | DNF  | DNS  | DNS  | 3     | 
-| 32 | NOHUMOUR          | MITSUBISHI | DNF  | DNS  | DNF  | DNS  | DNS  | DNF  | 3     | 
-| 33 | WILLIAMS6925      | MITSUBISHI | DNS  | DNF  | DNS  | DNF  | DNF  | DNF  | 3     | 
-| 34 | DAINIUS1108       | SUBARU     | DNS  | DNS  | DNF  | DNF  | DNS  | DNS  | 2     | 
-| 35 | MARTYNASJACEVIC   | SUBARU     | DNS  | DNS  | DNF  | DNS  | DNF  | DNS  | 2     | 
-| 36 | TADIS             | MITSUBISHI | DNF  | DNS  | DNS  | DNS  | DNS  | DNS  | 1     | 
-
+| P# | Driver            | Car                     | 1  | PS | 2 |  | 3 |  | TOTAL | 
+|----|-------------------|-------------------------|----|----|---|--|---|--|-------| 
+| 1  | PAULIUSV111       | VW POLO GTI R5          | 25 | 3  |   |  |   |  | 28    | 
+| 2  | A.RAKAUSKAS       | VW POLO GTI R5          | 18 | 5  |   |  |   |  | 23    | 
+| 3  | V.MAGELINSKAS     | VW POLO GTI R5          | 15 | 4  |   |  |   |  | 19    | 
+| 4  | MARTYNASJACEVIC   | FORD FIESTA MKII        | 12 | 2  |   |  |   |  | 14    | 
+| 5  | EDYM              | SKODA FABIA R5          | 12 |    |   |  |   |  | 12    | 
+| 6  | R4M_SNUPADELIKAS  | Peugeot 208 R5 T16      | 10 | 1  |   |  |   |  | 11    | 
+| 7  | PABLITAS555       | FORD FIESTA R5          | 10 |    |   |  |   |  | 10    | 
+| 8  | DOMASJACK8        | Peugeot 208 R5 T16      | 10 |    |   |  |   |  | 10    | 
+| 9  | TADAS DOVIDAITIS  | SKODA FABIA R5          | 10 |    |   |  |   |  | 10    | 
+| 10 | SIRUSFINLAND      | MITSUBISHI SPACESTAR R5 | 10 |    |   |  |   |  | 10    | 
+| 11 | JOX88             | FORD FIESTA MKII        | 8  |    |   |  |   |  | 8     | 
+| 12 | ARNASM            | FORD FIESTA MKII        | 8  |    |   |  |   |  | 8     | 
+| 13 | BUTOMIS           | SKODA FABIA R5          | 8  |    |   |  |   |  | 8     | 
+| 14 | RAPTORTHE145TH    | SKODA FABIA R5          | 8  |    |   |  |   |  | 8     | 
+| 15 | AGNIUS6           | FORD FIESTA MKII        | 8  |    |   |  |   |  | 8     | 
+| 16 | GEDAZZ__          | Peugeot 208 R5 T16      | 6  |    |   |  |   |  | 6     | 
+| 17 | DARIUS93242       | SKODA FABIA R5          | 6  |    |   |  |   |  | 6     | 
+| 18 | LAURIS938         | SKODA FABIA R5          | 6  |    |   |  |   |  | 6     | 
+| 19 | JUSTLITHUANIAN    | FORD FIESTA MKII        | 6  |    |   |  |   |  | 6     | 
+| 20 | MARIUS            | FORD FIESTA MKII        | 6  |    |   |  |   |  | 6     | 
+| 21 | RUSTEMAS212       | VW POLO GTI R5          | 4  |    |   |  |   |  | 4     | 
+| 22 | PECHKA32          | VW POLO GTI R5          | 1  |    |   |  |   |  | 1     | 
+| 23 | EVILME            | Peugeot 208 R5 T16      | 1  |    |   |  |   |  | 1     | 
+| 24 | A.VAIČIULIS       | FORD FIESTA MKII        | 1  |    |   |  |   |  | 1     | 
+| 25 | BETKAS85          | Peugeot 208 R5 T16      | 1  |    |   |  |   |  | 1     | 
+| 26 | TWITCH.TV/3SKIMAS | SKODA FABIA R5          | 1  |    |   |  |   |  | 1     | 
+| 27 | DAINIUS1108       | FORD FIESTA MKII        | 1  |    |   |  |   |  | 1     | 
+| 28 | HEATERIS          | SKODA FABIA R5          | 1  |    |   |  |   |  | 1     | 
+| 29 | KATINELIS         | CITROEN C3              | 1  |    |   |  |   |  | 1     | 
+| 30 | DANILICIUS        | CITROEN C3              | 1  |    |   |  |   |  | 1     | 
 
 
 
@@ -58,9 +51,9 @@ Results and rules: [https://vmag.github.io/lithuanian-open-dr2/](https://vmag.gi
 # Rules
 #### Duration:
 
-This rally will run over 6 weeks, you have 7 days to do your entry.
+This rally will run over 10 weeks, you have 9 days to do your entry.
 
-Rally start date: 2021.05.14
+Rally start date: 2021.09.20
 
 Each entry averages about 30-40 minutes.
 
@@ -73,7 +66,7 @@ Setups allowed. Hardcore damage. Any camera. Assists off.
 The driver with the most points wins. 
 
 ### Cars
-We will drive the Group R4/N4 cars.  You must choose a car for the first event and stick to that car for the whole championship.
+We will drive the Group R5 cars.  You must choose a car for the first event and stick to that car for the whole championship.
 
 #### DLC:
 For this rally you will need several locations DLC packs:
@@ -81,13 +74,10 @@ For this rally you will need several locations DLC packs:
 * Catamarca Province, Argentina
 * Monaro, Australia
 * Jämsä, Finland (DLC)
-* Baumholder, Germany (DLC)
 * Argolis, Greece (DLC)
-* Monte Carlo, Monaco (DLC)
 * Hawkes Bay, New Zealand
 * Łęczna County, Poland
 * Perth and Kinross, Scotland (DLC)
-* Ribadelles, Spain
 * Värmland, Sweden (DLC)
 * New England, USA
 * Powys, Wales (DLC)
