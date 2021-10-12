@@ -2,40 +2,42 @@
 
 # Results
 
-| P# | Driver            | Car                     | 1  | PS | 2 |  | 3 |  | TOTAL | 
-|----|-------------------|-------------------------|----|----|---|--|---|--|-------| 
-| 1  | PAULIUSV111       | VW POLO GTI R5          | 25 | 3  |   |  |   |  | 28    | 
-| 2  | A.RAKAUSKAS       | VW POLO GTI R5          | 18 | 5  |   |  |   |  | 23    | 
-| 3  | V.MAGELINSKAS     | VW POLO GTI R5          | 15 | 4  |   |  |   |  | 19    | 
-| 4  | MARTYNASJACEVIC   | FORD FIESTA MKII        | 12 | 2  |   |  |   |  | 14    | 
-| 5  | EDYM              | SKODA FABIA R5          | 12 |    |   |  |   |  | 12    | 
-| 6  | R4M_SNUPADELIKAS  | Peugeot 208 R5 T16      | 10 | 1  |   |  |   |  | 11    | 
-| 7  | PABLITAS555       | FORD FIESTA R5          | 10 |    |   |  |   |  | 10    | 
-| 8  | DOMASJACK8        | Peugeot 208 R5 T16      | 10 |    |   |  |   |  | 10    | 
-| 9  | TADAS DOVIDAITIS  | SKODA FABIA R5          | 10 |    |   |  |   |  | 10    | 
-| 10 | SIRUSFINLAND      | MITSUBISHI SPACESTAR R5 | 10 |    |   |  |   |  | 10    | 
-| 11 | JOX88             | FORD FIESTA MKII        | 8  |    |   |  |   |  | 8     | 
-| 12 | ARNASM            | FORD FIESTA MKII        | 8  |    |   |  |   |  | 8     | 
-| 13 | BUTOMIS           | SKODA FABIA R5          | 8  |    |   |  |   |  | 8     | 
-| 14 | RAPTORTHE145TH    | SKODA FABIA R5          | 8  |    |   |  |   |  | 8     | 
-| 15 | AGNIUS6           | FORD FIESTA MKII        | 8  |    |   |  |   |  | 8     | 
-| 16 | GEDAZZ__          | Peugeot 208 R5 T16      | 6  |    |   |  |   |  | 6     | 
-| 17 | DARIUS93242       | SKODA FABIA R5          | 6  |    |   |  |   |  | 6     | 
-| 18 | LAURIS938         | SKODA FABIA R5          | 6  |    |   |  |   |  | 6     | 
-| 19 | JUSTLITHUANIAN    | FORD FIESTA MKII        | 6  |    |   |  |   |  | 6     | 
-| 20 | MARIUS            | FORD FIESTA MKII        | 6  |    |   |  |   |  | 6     | 
-| 21 | RUSTEMAS212       | VW POLO GTI R5          | 4  |    |   |  |   |  | 4     | 
-| 22 | PECHKA32          | VW POLO GTI R5          | 1  |    |   |  |   |  | 1     | 
-| 23 | EVILME            | Peugeot 208 R5 T16      | 1  |    |   |  |   |  | 1     | 
-| 24 | A.VAIČIULIS       | FORD FIESTA MKII        | 1  |    |   |  |   |  | 1     | 
-| 25 | BETKAS85          | Peugeot 208 R5 T16      | 1  |    |   |  |   |  | 1     | 
-| 26 | TWITCH.TV/3SKIMAS | SKODA FABIA R5          | 1  |    |   |  |   |  | 1     | 
-| 27 | DAINIUS1108       | FORD FIESTA MKII        | 1  |    |   |  |   |  | 1     | 
-| 28 | HEATERIS          | SKODA FABIA R5          | 1  |    |   |  |   |  | 1     | 
-| 29 | KATINELIS         | CITROEN C3              | 1  |    |   |  |   |  | 1     | 
-| 30 | DANILICIUS        | CITROEN C3              | 1  |    |   |  |   |  | 1     | 
-
-
+| P# | Driver            | Car                     | 1  | PS | 2  | PS | 3 | PS | TOTAL | 
+|----|-------------------|-------------------------|----|----|----|----|---|----|-------| 
+| 1  | A.RAKAUSKAS       | VW POLO GTI R5          | 18 | 5  | 25 | 4  |   |    | 52    | 
+| 2  | PAULIUSV111       | VW POLO GTI R5          | 25 | 3  | 18 | 2  |   |    | 48    | 
+| 3  | V.MAGELINSKAS     | VW POLO GTI R5          | 15 | 4  | 6  | 3  |   |    | 28    | 
+| 4  | R4M_SNUPADELIKAS  | Peugeot 208 R5 T16      | 10 | 1  | 15 | 1  |   |    | 27    | 
+| 5  | MARTYNASJACEVIC   | FORD FIESTA MKII        | 12 | 2  | 12 |    |   |    | 26    | 
+| 6  | TADAS DOVIDAITIS  | SKODA FABIA R5          | 10 |    | 12 |    |   |    | 22    | 
+| 7  | DANILICIUS        | CITROEN C3              | 1  |    | 15 | 5  |   |    | 21    | 
+| 8  | PABLITAS555       | FORD FIESTA R5          | 10 |    | 8  |    |   |    | 18    | 
+| 9  | GEDAZZ__          | Peugeot 208 R5 T16      | 6  |    | 12 |    |   |    | 18    | 
+| 10 | PECHKA32          | VW POLO GTI R5          | 1  |    | 15 |    |   |    | 16    | 
+| 11 | DARIUS93242       | SKODA FABIA R5          | 6  |    | 8  |    |   |    | 14    | 
+| 12 | MARIUS            | FORD FIESTA MKII        | 6  |    | 8  |    |   |    | 14    | 
+| 13 | BETKAS85          | Peugeot 208 R5 T16      | 1  |    | 12 |    |   |    | 13    | 
+| 14 | EDYM              | SKODA FABIA R5          | 12 |    |    |    |   |    | 12    | 
+| 15 | RUSTEMAS212       | VW POLO GTI R5          | 4  |    | 8  |    |   |    | 12    | 
+| 16 | ALIO              | SKODA FABIA R5          |    |    | 12 |    |   |    | 12    | 
+| 17 | DOMASJACK8        | Peugeot 208 R5 T16      | 10 |    | 1  |    |   |    | 11    | 
+| 18 | SIRUSFINLAND      | MITSUBISHI SPACESTAR R5 | 10 |    | 1  |    |   |    | 11    | 
+| 19 | ARNASM            | FORD FIESTA MKII        | 8  |    | 1  |    |   |    | 9     | 
+| 20 | JOX88             | FORD FIESTA MKII        | 8  |    |    |    |   |    | 8     | 
+| 21 | BUTOMIS           | SKODA FABIA R5          | 8  |    |    |    |   |    | 8     | 
+| 22 | RAPTORTHE145TH    | SKODA FABIA R5          | 8  |    |    |    |   |    | 8     | 
+| 23 | AGNIUS6           | FORD FIESTA MKII        | 8  |    |    |    |   |    | 8     | 
+| 24 | VOIDROBOT         | FORD FIESTA MKII        |    |    | 8  |    |   |    | 8     | 
+| 25 | LAURIS938         | SKODA FABIA R5          | 6  |    | 1  |    |   |    | 7     | 
+| 26 | KATINELIS         | CITROEN C3              | 1  |    | 6  |    |   |    | 7     | 
+| 27 | JUSTLITHUANIAN    | FORD FIESTA MKII        | 6  |    |    |    |   |    | 6     | 
+| 28 | TWITCH.TV/3SKIMAS | SKODA FABIA R5          | 1  |    | 1  |    |   |    | 2     | 
+| 29 | EVILME            | Peugeot 208 R5 T16      | 1  |    |    |    |   |    | 1     | 
+| 30 | A.VAIČIULIS       | FORD FIESTA MKII        | 1  |    |    |    |   |    | 1     | 
+| 31 | DAINIUS1108       | FORD FIESTA MKII        | 1  |    |    |    |   |    | 1     | 
+| 32 | HEATERIS          | SKODA FABIA R5          | 1  |    |    |    |   |    | 1     | 
+| 33 | PAJIBATMENAS      | CITROEN C3              |    |    | 1  |    |   |    | 1     | 
+| 34 | KAROLUKAS4        | SKODA FABIA R5          |    |    | 1  |    |   |    | 1     | 
 
 
 ---
